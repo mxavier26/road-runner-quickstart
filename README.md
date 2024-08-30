@@ -4,8 +4,8 @@ This is the Official Team Code for our FTC Team. This program currently is only 
 
 # Important Commits
 
-8/12 - First Commit (Pre-Season Calibration)
-8/20 - Finished calibration of FTC drive base (Pre-Season Work)
+8/12 - First Commit (Pre-Season Calibration).
+8/20 - Finished calibration of FTC drive base (Pre-Season Work).
 
 
 # Features
